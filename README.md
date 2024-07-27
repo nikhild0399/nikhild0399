@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Nikhil Dwivedi 👋
 
-<!--
-**nikhild0399/nikhild0399** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about technology and coding, with expertise in various programming languages and frameworks. Here's a bit more about me and my work:
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express, PHP
+- **Databases:** MongoDB, phpMyAdmin
+- **Languages:** Java, C++
+- **Version Control:** Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--## 🔍 Platforms
+- [LeetCode](https://leetcode.com/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+
+
+## 📈 GitHub Stats
+![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 🏆 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)-->
+
+## 📫 How to Reach Me
+- **Email:** [nikhild0399@gmail.com](mailto:nikhild0399@gmail.com)
+- **LinkedIn:** [Nikhil Dwivedi](www.linkedin.com/in/nikhil-dwivedi-891ba8262)
+
+Feel free to explore my repositories and get in touch if you'd like to collaborate on any project!
+
+---
+
+_“The only way to do great work is to love what you do.” – Steve Jobs_
